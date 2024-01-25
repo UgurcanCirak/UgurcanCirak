@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Python, Computer Vision, Image Processing, and ML<br>I'm currently learning Python, ML, and SwiftUi.<br>
+I'm currently working on Python, Computer Vision, Flutter, and ML<br>I'm currently learning Python, ML, and SwiftUi.<br>
 
 
 ## 🌐 Socials:
