@@ -1,5 +1,5 @@
 # 💫 About Me:
-I graduated from Manisa Celal Bayar University with a 3.25 GPA.<br> I work on mobile application development with Flutter.<br> I am also interested in game development with SwiftUi and Unity. I love learning and developing.<br>
+I graduated from Manisa Celal Bayar University with a 3.25 GPA.<br> I work on mobile application development with Flutter.<br> I am also interested in game development with Unity and, SwiftUi for iOS. I love learning and developing.<br>
 
 
 ## 🌐 Socials:
